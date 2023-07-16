@@ -6,8 +6,8 @@
 ### <div align="center">I'm Shaik Mohamed Faizal, a Front-End developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Saassisy]
-https://mohamedfaizal813.github.io/Sassify-concept/  
+- 🔭 I’m currently working on [JS Traders]
+ https://64af88f055f9781c2660e10f--melodious-quokka-3bd0a9.netlify.app/
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
