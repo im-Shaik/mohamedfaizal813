@@ -6,8 +6,7 @@
 ### <div align="center">I'm Shaik Mohamed Faizal, a Front-End developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [JS Traders]
- https://64af88f055f9781c2660e10f--melodious-quokka-3bd0a9.netlify.app/
+- 🔭 I’m currently working on Freelance Project [JS Traders] - https://jstraderspune.com/
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
